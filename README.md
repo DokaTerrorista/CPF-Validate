@@ -1,2 +1,2 @@
 # CPF-Validate
-A simple cpf validate
+A simple CPF validate
